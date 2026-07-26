@@ -1,0 +1,9 @@
+[project]
+name = "finance-cli"
+version = "0.1.0"
+description = "个人记账工具 — Python + Streamlit + SQLite"
+requires-python = ">=3.10"
+dependencies = [
+    "streamlit>=1.25.0",
+    "matplotlib>=3.7.0",
+]

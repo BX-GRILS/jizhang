@@ -1,0 +1,10 @@
+pyproject.toml
+finance/__init__.py
+finance/database.py
+finance/models.py
+finance/web.py
+finance_cli.egg-info/PKG-INFO
+finance_cli.egg-info/SOURCES.txt
+finance_cli.egg-info/dependency_links.txt
+finance_cli.egg-info/requires.txt
+finance_cli.egg-info/top_level.txt
